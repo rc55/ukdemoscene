@@ -46,7 +46,7 @@ Original Wikipedia Article: https://en.wikipedia.org/wiki/Demoscene#Parties
 
 - The Demoscene in London Facebook Group often post about meet-ups that occur several times a year in central London: https://www.facebook.com/groups/134747933783233/
 
-- Occasionally ad-hoc meet-ups by demosceners take place in the South / South-West (Bristol Area) and in the North (Slipstream events). Slipstream plan to host a demoscene party in the future at some point.
+- Occasionally ad-hoc meet-ups by demosceners take place in the South / South-West (Bristol Area) and in the North (Slipstream events). Slipstream plan to host a demoscene party in the future at some point. The Slack #general channel is good to keep an eye on for upcoming meetings.
 
 ### Who maintains this page?
 

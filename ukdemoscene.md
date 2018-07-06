@@ -73,6 +73,8 @@ Moderators can be found in #moderators - however this channel should only be use
 
 ### Slack Rules
 
+_These rules are considered a work in progress_
+
 - Language can be as colourful as you wish, however topics should be generally suitable for public consumption.
 - During UK working hours (8AM-6PM), collapse all image based links posted to main channels. This includes link previews to web sites.
 - No NSFW images should be posted to any channel.

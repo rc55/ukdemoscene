@@ -12,6 +12,7 @@ General:
 * [What is a Demoparty?](#what-is-a-demoparty?)
 * [What Demoparties take place in the UK?](#what-demoparties-take-place-in-the-uk?)
 * [What Demoscene meet-ups take place in the UK?](#what-demoscene-meet-ups-take-place-in-the-uk?)
+* [What international parties are frequented by UK Demosceners?](#what-international-parties-are-frequented-by-uk-demosceners?)
 * [Who maintains this page?](#who-maintains-this-page?)
 
 Slack:
@@ -47,6 +48,10 @@ Original Wikipedia Article: https://en.wikipedia.org/wiki/Demoscene#Parties
 - The Demoscene in London Facebook Group often post about meet-ups that occur several times a year in central London: https://www.facebook.com/groups/134747933783233/
 
 - Occasionally ad-hoc meet-ups by demosceners take place in the South / South-West (Bristol Area) and in the North (Slipstream events). Slipstream plan to host a demoscene party in the future at some point. The Slack #general channel is good to keep an eye on for upcoming meetings.
+
+### What international parties are frequented by UK Demosceners?
+
+The most popular international demoparty is Revision, but many UK sceners go to Evoke and Outline. Other parties popular with smaller groups of UK sceners include X and TRSAC. This list is not exhaustive. 
 
 ### Who maintains this page?
 

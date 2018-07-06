@@ -1,6 +1,6 @@
 # ukdemoscene.org
 
-Welcome to ukdemoscene.org - the UK's information page for information regarding the demoscene in the UK.
+Welcome to ukdemoscene.org - the information page for information regarding the demoscene in the UK.
 
 If you would like to chat with us - please feel free to join our [Slack], where we have over 90 members and active chat every day.
 

@@ -11,6 +11,7 @@ General:
 * [What is the Demoscene?](#what-is-the-demoscene?)
 * [What is a Demoparty?](#what-is-a-demoparty?)
 * [What Demoparties take place in the UK?](#what-demoparties-take-place-in-the-uk?)
+* [What Demoscene meet-ups take place in the UK?](#what-demoscene-meet-ups-take-place-in-the-uk?)
 * [Who maintains this page?](#who-maintains-this-page?)
 
 Slack:
@@ -35,16 +36,23 @@ Original Wikipedia Article: https://en.wikipedia.org/wiki/Demoscene
 
 Original Wikipedia Article: https://en.wikipedia.org/wiki/Demoscene#Parties
 
-
 ### What Demoparties take place in the UK?
 
-- **NOVA** (http://novaparty.org) is a demoparty based in Budleigh Salterton, near Exeter in the UK and continues the tradition of an annual UK Demoparty which has been a constant since 2005.
+- **NOVA** (http://novaparty.org) is a demoparty based in Budleigh Salterton, near Exeter in the UK and continues the tradition of an annual UK Demoparty which has been a constant since 2005. The third NOVA takes place in on the 21st-23rd June 2019.
 
-- **Field-FX** is a self-styled _"demoparty in a tent"_ taking place as part of the larger Electromagnetic Fields festival (https://www.emfcamp.org/).
+- **Field-FX** is a self-styled _"demoparty in a tent"_ taking place as part of the larger Electromagnetic Fields festival (https://www.emfcamp.org/). Field-FX is tue to take place on August 31st - September 2nd 2018.
+
+### What Demoscene meet-ups take place in the UK?
+
+- The Demoscene in London Facebook Group often post about meet-ups that occur several times a year in central London: https://www.facebook.com/groups/134747933783233/
+
+- Occasionally ad-hoc meet-ups by demosceners take place in the South / South-West (Bristol Area) and in the North (Slipstream events). Slipstream plan to host a demoscene party in the future at some point.
 
 ### Who maintains this page?
 
-This page is maintained by Ruairi Fullam (rc55). Feel free to questions or suggest contributions in the #general channel on the UK Demoscene Slack.
+This page is maintained by Ruairi Fullam (rc55), and is available on GitHub here: https://github.com/rc55/ukdemoscene
+
+Contributions are always welcome.
 
 ---
 
@@ -54,7 +62,7 @@ This page is maintained by Ruairi Fullam (rc55). Feel free to questions or sugge
 
 The UK Demoscene has an online Slack run by Chris Wood (psonice) and Ruairi Fullam (rc55).
 
-It is intended to be a work-safe environment for demosceners to chat.
+It is intended to be a work-safe environment for demosceners to chat. Those wishing to post non work-safe content are welcome to create their own private, non-public channels and solicit invites from others as long as the content is explicitly indicated as safe or not safe for work.
 
 Main channels include:
 
@@ -69,7 +77,7 @@ Supplementary channels include:
 - **#fitness** - Health and fitness / goal-setting discussion
 - **#gaming** - Discussion around computer / console gaming
 
-Moderators can be found in #moderators - however this channel should only be used if an issue arises.
+Moderators (Bossman, psonice and rc55) can be found in #moderators - however this channel should only be used if an issue arises.
 
 ### Slack Rules
 

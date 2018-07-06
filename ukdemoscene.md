@@ -8,10 +8,10 @@ If you would like to chat with us - please feel free to join our [Slack], where 
 
 General:
 
-* [What is the Demoscene?](#what-is-the-demoscene)
-* [What is a Demoparty?](#what-is-a-demoparty)
-* [What Demoparties take place in the UK?](#what-demoparties-take-place-in-the-uk)
-* [Who maintains this page?](#who-maintains-this-page)
+* [What is the Demoscene?](#what-is-the-demoscene?)
+* [What is a Demoparty?](#what-is-a-demoparty?)
+* [What Demoparties take place in the UK?](#what-demoparties-take-place-in-the-uk?)
+* [Who maintains this page?](#who-maintains-this-page?)
 
 Slack:
 

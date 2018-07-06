@@ -51,9 +51,9 @@ Original Wikipedia Article: https://en.wikipedia.org/wiki/Demoscene#Parties
 
 ### What international parties are frequented by UK Demosceners?
 
-The most popular international demoparty is Revision (https://revision-party.net), but many UK sceners go to Evoke (https://www.evoke.eu/) and Outline (http://outlinedemoparty.nl/). 
+The most popular international demoparty is **Revision** (https://revision-party.net), but many UK sceners go to **Evoke** (https://www.evoke.eu/) and **Outline** (http://outlinedemoparty.nl/). 
 
-Other parties popular with smaller groups of UK sceners include X(https://www.scs-trc.net/) and TRSAC (http://trsac.dk/). 
+Other parties popular with smaller groups of UK sceners include **X** (https://www.scs-trc.net/) and **TRSAC** (http://trsac.dk/). 
 
 This list is not remotely exhaustive. 
 
